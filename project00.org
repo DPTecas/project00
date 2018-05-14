@@ -1,0 +1,1459 @@
+Total Time Spent :13hr 40min
+* Key Terms
+** Contrapositive
+*** Identify
+This is a word used to describe a certain set of conditionals
+relating to an initial proposition, and it is also logically
+equivalent to its' original proposition.
+*** Define
+A contrapositive switches the hypothesis and the conclusion of a 
+conditional statement, and also negates both of them. This results
+in a conditional that has the same logical equivalence as the original
+conditional statement.
+*** Example
+Original: If I eat dinner then I will feel full.
+Contrapositive: If I am not full then I did not eat dinner.
+*** Test Question
+Which of these statements are the contrapositive of the following
+statement? If the sky is blue, then it is not raining.
+a. If the sky is not blue, then it is not raining.
+b. If it is not raining, then the sky is blue.
+c. If it is raining, then the sky is not blue. (Correct)
+d. If the sky is red, then it is sunny.
+** Converse
+*** Identify
+It is a word to describe a type of augmentation to a conditional
+statement.
+*** Define
+Simply switches the if and then of a conditional statement.
+*** Example
+Original: If I am a blacksmith then I make swords.
+Converse: If I make swords then I am a blacksmith.
+*** Test Question 
+True/False. These statements are converses of each other.
+If my chair is reclined then I am comfortable.
+If my chair is not reclined then I am comfortable.
+Answer: False.
+** Inverse
+*** Identify
+It is a word to describe a type of augmentation to a conditional
+statement.
+*** Define
+Negating both the "if" and the "then" of a conditional
+statement. 
+*** Example
+Original: If I make pancakes then my wife is happy.
+Inverse: If I do not make pancakes then my wife is not happy.
+*** Test Question 
+The statement saying if light is on then it is not dark is the
+<blank> of the statement saying if the light is not on then it is
+dark. Fill in the blank.
+a. Converse.
+b. Inverse. (Correct)
+c. Contrapositive.
+d. Biconditional.
+** Real Numbers
+*** Identify
+It is a grouping of numbers specified by mathematics.
+*** Define
+A real number is any value of a continuous amount that can
+represent some distance on the real number line. This includes
+integers, fractions, decimals, and so forth.
+*** Example
+The number 35, the decimal value 1.22, the fraction 22/37.
+*** Test Question 
+Which is not considered a real number?
+a. 2
+b. 5.687546594564
+c. 89/88
+d. 9i (Correct)
+** Integers
+*** Identify
+A set of numbers specified by certain rules in
+mathematics.
+*** Define
+A whole number or a number that is not a fraction.
+*** Example
+56, 88, 400005, -45
+*** Test Question 
+True/False. 3.14159 is an integer.
+Answer: False.
+** Rational Numbers
+*** Identify
+Another set of numbers that are specified by
+certain rules in mathematics.
+*** Define
+Any number that can be expressed as a quotient
+of two integers, as long as the denominator is 
+not 0.
+*** Example
+1.5, 2/1, 99/100.
+*** Test Question 
+Which is an example of a rational number?
+a. The square root of 2
+b. Pi
+c. 1.125 (Correct)
+d. 7.9834583745987
+** Predicate
+*** Identify
+In dealing with boolean logic, predicates can allow
+us to classify statements based on the combinations
+of values in those statements.
+*** Define
+A statement that may be true or false depending on the values
+of its variables.
+*** Example
+Statement: Nutmeg is a bird.
+Predicate of that statement: "is a bird" can
+only return true or false.
+*** Test Question 
+What part of this statement is the predicate?
+The instruments I own are a guitar and a ukulele.
+a. guitar
+b. guitar and ukulele
+c. the instruments I own are (Correct)
+d. instruments
+** Domain
+*** Identify
+Used to describe a set of inputs for a function, a very
+general term used in mathematics.
+*** Define
+The term for the set of all possible inputs for a function.
+*** Example
+Function twoSquared will only square
+the number 2 and give its output, otherwise
+it will reject that number. Thus, the domain
+of this function is the set (2) and nothing else.
+*** Test Question 
+What is the domain of a function?
+a. Set of all possible inputs for a function. (Correct)
+b. Set of all possible outputs for a function.
+c. Set of all actual outputs for a function.
+d. Set of all actual inputs for a function.
+** CoDomain
+*** Identify
+Assists in describing certain sets for functions,
+specifically the set of outputs.
+*** Define
+The set of all possible outputs for a function
+*** Example
+My function returns a 1 if it is given
+a positive number and a -1 if it is given
+a negative number, thus the CoDomain is
+the set (-1, 1).
+*** Test Question 
+What is the codomain of a function?
+a. Set of all possible inputs for a function. 
+b. Set of all possible outputs for a function.(Correct)
+c. Set of all actual outputs for a function.
+d. Set of all actual inputs for a function.hich number is not part of the 
+** Quantifier
+*** Identify
+Helps to measure amounts of logical data or how
+much of an input should be accounted for when
+describing a function.
+*** Define
+Specifies the quantity of specimens in the domain that
+satisfy a formula.
+*** Example
+Using "for all" or "there exists" for in a statement.
+For instance, for all numbers in set x, execute y. 
+*** Test Question 
+What is not an example of a quantifier?
+a. for all
+b. there exists
+c. equals (Correct)
+d. for the set of odd numbers in x
+** Antecedent
+*** Identify
+Helps to separate out if/then statements and gives
+each a definition so that we can use more professional
+terms rather than just if and then to describe conditionals.
+*** Define
+The first half of a hypothetical proposition.
+*** Example
+Statement: If I am eating cake then I am fat. 
+Antecedent: I am eating cake.
+*** Test Question 
+What part of this statement is the antecedent?
+If I am driving then I am in danger.
+a. I am driving. (Correct)
+b. I am in danger.
+c. a and b.
+d. Then
+** Consequent
+*** Identify
+Helps to separate out if/then statements and gives
+each a definition so that we can use more professional
+terms rather than just if and then to describe conditionals.
+*** Define
+The second half of a hypothetical proposition.
+*** Example
+Statment: If she is flying then I am dreaming.
+Consequent: I am dreaming.
+*** Test Question 
+What part of this statement is the consequent?
+If I am driving then I am in danger.
+a. I am driving. 
+b. I am in danger. (Correct)
+c. a and b.
+d. If
+** Set
+*** Identify
+A set will allow us to keep numbers organized
+and are used especially in discrete mathmematics
+to describe numbers.
+*** Define
+A collection of distinct objects. 
+Considered as an object itself.
+*** Example
+The set of odd numbers between 0 and 12
+is (1, 3, 5, 7, 9, 11). No other numbers
+are a part of this set.
+*** Test Question 
+What is an example of a set of objects?
+a. The cards in a deck. (Correct)
+b. The exact times on an analog clock.
+c. The number of sides on a circle.
+d. Number of worlds God has created.
+** Fallacy
+*** Identify
+Helps to identify when arguments have issues
+so that we can repair them and make a proposition
+with valid arguments.
+*** Define
+An argument that is invalid, whether or not
+the end results is true.
+*** Example
+If I see the color white, I am staring at a wall.
+This is a fallacy because I can be staring at a
+wall and not see the color white, and I can see
+the color white without seeing a wall. So, even 
+if it is true, it is not a good argument.
+*** Test Question 
+True/False. This statement is a fallacy.
+If I am in the U.S.A, then I am in North
+America. 
+Answer: False.
+** Biconditional
+*** Identify
+Deals with conditionals and is able to identify a very
+specific region of conditionals relating to the antecedent
+and consequent of a statement.
+*** Define
+The logical connective of two statements asserting that
+p if and only if q, where p is an antecent and q is a consequent.
+*** Example
+I am using my computer to surf the internet if and
+only if it is powered on.
+*** Test Question 
+Which symbol classifies a biconditional?
+a. \rightarrow
+b. \leftarrow
+c. \land
+d. \leftrightarrow (Correct)
+** Sufficient Condition
+*** Identify
+Helps identify different parts of a biconditional statement,
+and is used to give proper vocabulary to each part.
+*** Define
+The first part of a biconditional statement, the one
+that is merely sufficient for it to be true and sets
+up the second.
+*** Example
+Statement: I eat pie if and only if it has apples in it.
+Sufficient Condition: I eat pie.
+*** Test Question 
+Which part of the statement is the sufficient condition?
+The scriptures are true if and only if they are translated correctly.
+a. The scriptures are true (Correct)
+b. They are translated correctly.
+** Necessary Condition
+*** Identify
+Helps identify different parts of a biconditional statement,
+and is used to give proper vocabulary to each part.
+*** Define
+The second part of a biconditional, or the part that
+is required to make the first part true as well.
+*** Example
+Statement: I can purchase an item if and only if I have money.
+Necessary Condition: I have money.
+*** Test Question 
+Which part of the statement is the necessary condition?
+The scriptures are true if and only if they are translated correctly.
+a. The scriptures are true.
+b. They are translated correctly. (Correct)
+** ~p
+*** Identify
+This is a symbol that helps us identify conditional
+statements and boolean logic in shorter terms.
+*** Define
+This negates the proposition called p.
+Makes a statement mean the opposite of
+itself.
+*** Example
+p = Vanilla cake is delicious.
+~p = Vanilla cake is not delicious.
+*** Test Question 
+If p = School is far away, then
+~p = 
+a. School is not far away (Correct)
+b. School is really far away.
+c. School is kind of far away.
+d. School takes up too much time.
+** p \land q
+*** Identify
+This is a symbol that helps us identify conditional
+statements and boolean logic in shorter terms.
+*** Define
+This symbol states the if both p and q are
+true statements, that the combination of them
+are also true. The conjuction of 2 propositions.
+*** Example
+p: I love to drive.
+q: I hate traffic.
+p \land q: I love to drive and I hate traffic.
+*** Test Question 
+If p = I hate sleeping and q = I hate
+dreaming, what is p \land q. 
+a. I love sleeping and dreaming.
+b. I hate sleeping and dreaming. (Correct)
+c. I love sleeping and hate dreaming.
+d. I hate sleeping or dreaming.
+** p \lor q
+*** Identify
+This is a symbol that helps us identify conditional
+statements and boolean logic in shorter terms.
+*** Define
+The disjunction of two statements, meaning that
+if either are true then we can proceed as if the
+entire statement is true.
+*** Example
+p: You need a GPA of 3.5
+q: You need one internship
+p \lor q: To get this job you need a GPA of 3.5 or one internship.
+*** Test Question 
+Which of these is a disjunction?
+a. He will eat a bettle.
+b. Please provide a birth date or your age. (Correct)
+c. Life is strange and I need a backpack.
+d. If you will help yourself, then I can run fast.
+** p XOR q
+*** Identify
+This is a symbol that helps us identify conditional
+statements and boolean logic in shorter terms.
+*** Define
+The entire equation outputs a true if only one 
+or the other statement are true, not if both are
+true and not if neither are true.
+*** Example
+p = You can fly home.
+q = You can drive home.
+p XOR q: You can fly or drive home. 
+*** Test Question 
+True/False. The following statement constitutes an exclusive
+or. You may live in a big house or an apartment.
+True.
+** p == q
+*** Identify
+This is a symbol that helps us identify conditional
+statements and boolean logic in shorter terms.
+*** Define
+This checks whether or not two statements are 
+logically equivalent in discrete math.
+*** Example
+p = The wall is white.
+q = The road is black.
+p == q is true since both statements
+are individually true.
+"My assumption here is that this is supposed
+to represent the logically equivalent sign and 
+it just can't be done in spacemacs"
+*** Test Question 
+Which statements are logically equivalent.
+p = Roses are red.
+q = Flies are ugly.
+a. Roses are not red and flies are ugly.
+b. Roses are red and flies are not ugly.
+c. Roses are yellow and flies are beautiful.
+d. Roses are not red and flies are not ugly. (Correct)
+
+** p \rightarrow q
+*** Identify
+This is a symbol that helps us identify conditional
+statements and boolean logic in shorter terms.
+*** Define
+This is stating that p is only true if q is true.
+*** Example
+p = I love being awake.
+q = I am drinking caffeine.
+p \rightarrow q: I love being awake only if I am drinking caffeine
+*** Test Question 
+p = I like trucks.
+q = I like vehicles.
+Which statement is the equivalent of p \rightarrow q?
+a. I like trucks and vehicles.
+b. I like trucks or vehicles.
+c. I like trucks if I like vehicles. (Correct)
+d. I like vehicles because I like trucks.
+** p \leftrightarrow q
+*** Identify
+This is a symbol that helps us identify conditional
+statements and boolean logic in shorter terms.
+*** Define
+This is the symbolic case for a biconditional statement.
+It is stating the p is true if and only if q is true.
+*** Example
+p = Volleyball is being played.
+q = A volleyball net is set up.
+p \leftrightarrow q = Volleyball is being played if and only 
+if a net is  set up.
+*** Test Question
+What does \leftrightarrow represent?
+a. Converse
+b. Inverse
+c. Antecedent
+d. Biconditional (Correct)
+** Three Dots in a Triangle
+*** Identify
+Another symbol which allows for ease of reading logical
+arguments and mathematical proofs.
+*** Define
+A symbol that is a dot at each vertex of an invisible
+triangle. The symbol is synonymous with the word 'therefore'
+*** Example
+Symbol being used:
+All dogs are amazing.
+Air Bud is a dog.
+\therefore Air Bud is amazing.
+*** Test Question 
+Which is an appropriate use of \therefore?
+a. I love to \therefore
+b. I am tall, \therefore I am not short. (Correct)
+c. Could you please \therefore
+d. p is a \therefore of q
+** Upside Down A
+*** Identify
+A symbol that helps us represent things in discrete
+math, specifically in logic and functions.
+*** Define
+It is a quantifier symbol that means "for all."
+This is the symbol: \forall
+*** Example
+\forall y, 4 * y = y + y + y + y
+*** Test Question 
+The symbol \forall means
+a. every time
+b. OR
+c. for all (Correct)
+d. there exists
+** Backwards E
+*** Identify
+A symbol that helps us represent things in discrete
+math, specifically in logic and functions.
+*** Define
+It is a symbol that means "There exists."
+This is the symbol: \exist 
+*** Example
+For a set (1,2,3), \exist multiple odd numbers.
+Those being 1 and 3.
+*** Test Question 
+What is a proper use of \exist in discrete math?
+a. I love dogs \exist cats
+b. \forall animals \exist frogs. (Correct.. I hope)
+c. If \exist ingredients, then \exist food.
+d. \exist a sweet car that runs on water.
+** Union
+*** Identify
+Helps to describe the connections between multiple
+sets of numbers.
+*** Define
+The union of two sets of numbers is a set that includes
+numbers from either set or both sets.
+Symbol: \cup  
+*** Example
+Set A (1 2 4)
+Set B (3 4 5)
+A \cup B (1 2 3 4 5)
+*** Test Question 
+What is the union of these two sets?
+(1 2 3) and (2 3 4 5 6)
+a. ( )
+b. (5 7 9)
+c. (1 2 3 4 5 6) (Correct)
+d. (2 3)
+** Intersection
+*** Identify
+Helps to describe the connections between multiple
+sets of numbers.
+*** Define
+The intersection of two sets of numbers is the
+set of numbers include only in both of them.
+Symbol: \cap
+*** Example
+A: (4 7 9 0)
+B: (3 2 0 9 7)
+A \cap B: (0 7 9)
+*** Test Question 
+Which is the intersection of these two sets?
+(12 11 2 4 8) (3 7 8 2 23)
+a. (12 11 2 4 8 3 7 23)
+b. (2 8) (Correct)
+c. (12 11 23)
+d. (2 4 8 12)
+** Commutative Laws
+*** Identify
+This set of laws allows us to move around propositions
+in logical statements while retaining the integrity of
+a statement.
+*** Define
+These laws say that regardless of the order of
+propositions in a logical statement, the resulting
+value will be the same.
+*** Example
+p = Life sucks.
+q = Tv rocks.
+Life sucks and Tv rocks.
+Tv rocks and life sucks.
+These are equivalent statements mixed
+up commutatively.
+*** Test Question 
+What is the commutative equivalent of
+p \lor q
+a. ~p \lor ~q
+b. q \lor p (Correct)
+c. ~q \land ~p
+d. q \land p
+** Associative Laws
+*** Identify
+This set of laws allows us to move around propositions
+in logical statements while retaining the integrity of
+a statement.
+*** Define
+These laws state that you can associate different
+parts of a logical expression using parantheses,
+and as long as they are ordered similarly, the end
+result will remain the same. Must be the same operation
+throughout.
+*** Example
+p \lor (q \lor r) = (p \lor q) \lor r 
+*** Test Question 
+Which is equivalent to the statement
+s \land t \land r?
+a. s \lor t \lor r
+b. (s \land t) \land r (Correct)
+c. s \land t \lor r
+d. (s \lor t) \lor r
+** Distributive Laws
+*** Identify
+A set of laws that allow logical operations to
+be organized through distribution and remian equal.
+*** Define
+If there is an operation that is being AND/OR etc. with
+another logical statement within parantheses, then it can
+be split into two separate statements being AND/OR with both
+of the propositions within the parantheses and remain equal.
+*** Example
+l \lor (r \land f) = (l \lor r) \land (l \lor f)
+*** Test Question 
+Which statement is the distributed version of
+p \land (q \lor m)
+a. p \land q
+b. p \land q \land m
+c. (p \land q) \lor (p \land m) (Correct)
+d. (p \lor q) \land (p \lor m)
+** Identity Laws
+*** Identify
+This is a simple law that allows us to reaffirm 
+the state of a particular proposition or variable.
+*** Define
+The identity laws simply state that every object is
+identical and equal to oneself.
+*** Example
+If a = 1,
+then a = a = 1.
+Because a = a.
+*** Test Question 
+Which is an example of the identity law?
+a. x = 1
+b. x = y
+c. f = f (Correct)
+d. ~a = b
+** Negation Laws
+*** Identify
+This allows us to keep track of the opposites of statements
+that we have made.
+*** Define
+Describes the opposite value of a given statement. If a statement is true,
+the negation of that statement is false.
+*** Example
+If a = true.
+Then not a = false.
+If the walls are white is false.
+then the walls are not white is true.
+*** Test Question 
+Which of the following is an example of negation?
+a. p = 1, ~p = 1
+b. ~p = p
+c. p = 1, q = 0
+d. p = 1, ~p = 0 (Correct)
+** Double Negative Laws
+*** Identify
+These laws classify a specific manipulation of
+propositional statements.
+*** Define
+This is the same as saying that if a statement is
+true, then it is not true that the statement is not
+true. It is the negation of the negation.
+*** Example
+Statement: The castle is big.
+Double Neg: It is not the case that the castle in not big.
+Symbolic: ~(~p)
+*** Test Question 
+Which is an example of a double negation?
+a. p \land ~p
+b. ~(~p) (Correct)
+c. ~(~(~p))
+d. p \lor ~p
+d. 
+** Idempotent Laws
+*** Identify
+A set of laws that help to classify different
+logical and mathematical operations.
+*** Define
+The property of some operations that can be applied
+multiple times to something without changing the end
+result.
+*** Example
+x \land x = x
+1 * 1 = 1
+*** Test Question 
+Which statement shows idempotence?
+a. x * y = xy
+b. x / 2 = y
+c. x \land x = x (Correct)
+d. m \land n = n
+** Universal Bound Laws
+*** Identify
+Describes the different bounds that logical operations
+can have, and simplifying those equations.
+*** Define
+This says that there is an upper and lower bound, somewhat
+on performing logical operations. If U includes universal numbers
+used for a problem, applying an OR to that will only result in
+the total universal numbers again. If something has an AND operation
+applied to it against a 0 or nil, then it will always result in
+0 or nil.
+*** Example
+X \cup U = U, U = universal numbers
+X \land 0 = 0
+*** Test Question 
+True/False. The following is an example of a universal
+bound.
+B \land U = B
+Answer: False
+** De Morgan's Laws
+*** Identify
+A set of laws that help organize logical propositions
+for the purpose of making them easier to read.
+*** Define
+If two values are being compared with an AND or an OR inside
+of parantheses, with another logical operation being applied
+from the outside, that operation can be distributed to each
+component of the equation, if the AND or OR are switched to the
+other.
+*** Example
+~(X \lor y) = ~x \land ~y
+*** Test Question 
+What statement applies DeMorgans Law
+to this proposition: ~(p \land ~q)
+a. ~p \land q
+b. ~p \lor ~q
+c. ~p \lor q (Correct)
+d. p \land q
+** Absorption Laws
+*** Identify
+N/A
+*** Define
+States that if p implies q, p also implies p and q.
+*** Example
+p \rightarrow q 
+p \rightarrow (p \land q)
+If I ride horses then I am happy implies
+that you are happy and that you are riding
+horses.
+*** Test Question 
+What does absorption say p implies in this proposition?
+p \rightarrow q
+a. p \land q (Correct)
+b. p \lor q
+c. p \land ~p
+d. ~q \lor p
+** Negations of t and c
+*** Identify
+Variable t represents a tautology which is always true,
+and c represents a contradiction which is always false.
+*** Define
+The negations of t and c are special cases. The negation of 
+t is equal to c, since the negation of something that is always
+true must be always false. The opposite is also true, the negation
+of c is t.
+*** Example
+Tautology: The grass is always green.
+Contradiction: The grass is never green.
+*** Test Question 
+What is the negation of t?
+a. -t
+b. c (Correct)
+c. ~t
+d. ~c 
+** Vacuously True
+*** Identify
+N/A
+*** Define
+Something that asserts that all members of an empty set have
+a certain property.
+*** Example
+All of the numbers in the alphabet are odd.
+*** Test Question 
+Which is an example of a vacuous truth?
+a. My cake is delicious.
+b. All of the soda in this empty cup is red. (Correct)
+c. Snow is white.
+d. If I jump then I will freak out.
+** Modus Ponens
+*** Identify
+N/A
+*** Define
+A method of affirming that something is true, or inference. It's to say
+that if P implies Q and P are both asserted to be true, then Q must be 
+true also.
+*** Example
+If the dog is golden, then it will retrieve.
+The dog is golden.
+Therefore, the dog will retrieve.
+*** Test Question 
+What is being inferred here according to
+the Modus Ponens validation argument?
+If it is fall, then it is not February.
+It is fall, therefore <blank>
+a. It is fall.
+b. It is February.
+c. It is not February. (Correct)
+d. It is fall and it is February
+** Modus Tollens
+*** Identify
+N/A
+*** Define
+Another valid argument form. It says that if a 
+statement is true, then so is its contrapositive.
+*** Example
+If I see the Avengers, then I won't have to worry
+about spoilers.
+Contrapositive which is also true by Modus Tollens:
+If I worry about spoilers, then I have not seen the 
+Avengers.
+*** Test Question 
+What does Modus Tollens infer is true about
+this statement: p \rightarrow q
+a. ~p \rightarrow ~q
+b. ~q \rightarrow ~p (Correct)
+c. p \leftrightarrow q
+d. p \lor ~p 
+** Elimination: Valid Argument Form
+*** Identify
+N/A
+*** Define
+Being able to eliminate certain statements from a logical
+proof based on valid arguments.
+*** Example
+Modus Ponens tells us that if p is not true, we cannot infer
+that q is true in that statement without looking at q itself.
+*** Test Question 
+True/False: Elimination is being able to add new inferences
+to a logical proof based on prior inferences.
+False.
+** Transitivity: Valid Argument Form
+*** Identify
+N/A
+*** Define
+If element a is related to element b and element b is
+related to element c, then element a is related to element
+c by transitivity.
+*** Example
+p \rightarrow q. q \rightarrow r. 
+Therefore p \rightarrow r.
+*** Test Question 
+True/False. These statements display the transitive property.
+If the dog is white then the dog is cool.
+If the dog is cool then the dog is big.
+Therefore if the dog is white then the dog is big.
+Answer: True
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Exercises
+#+TITLE: Exercises
+#+LANGUAGE: en
+#+OPTIONS: H:4 num:nil toc:nil \n:nil @:t ::t |:t ^:t *:t TeX:t LaTeX:t d:(not "HINT")
+#+OPTIONS: html-postamble:nil
+#+STARTUP: showeverything entitiespretty
+#+SETUPFILE: ../theme-bigblow.setup
+
+
+** TODO WDT
+  PVP the result of evaluating the following (paying special attention to the
+  more-than-syntactic difference between the \lsquo{}starless\rsquo{} form of =let= and the
+  \lsquo{}star-suffixed\rsquo{} form):
+*** Answer: I put PVP before and after each block.
+This should work fine, will evaluate to a 6.
+#+BEGIN_SRC emacs-lisp
+  (let ((a 1) (b 2) (c 3)) (+ a b c))
+#+END_SRC
+It seemed to work as intended.
+#+RESULTS:
+: 6
+
+My guess is this will either evaluate to 6, or give an
+error because d has no value.
+#+BEGIN_SRC emacs-lisp
+  (let ((a 1) (b 2) (c 3)) (+ a b c d))
+#+END_SRC
+This would no evaluate because d did not have a value assigned
+to it, which makes sense.
+
+The d still has no value, so unless the brackets do something
+different, it should still not work.
+#+BEGIN_SRC emacs-lisp
+  (let ((a 1) (b 2) (c 3)) [+ a b c d])
+#+END_SRC
+So it seems the brackets just display the actual characters 
+rather than the values that the variables hold.
+#+RESULTS:
+: [+ a b c d]
+
+The extra plus sign at the end will cause an error because
+it would be too confusing to be able to assign a number
+to an operation.
+#+BEGIN_SRC emacs-lisp
+  (let ((a 1) (b 2) (c 3) (+ 4)) (+ a b c +))
+#+END_SRC
+Okay I am very surprised by this. There are no boundaries 
+for this? You must have to be extremely careful. Although it
+can probably tell that its addition unless another operator
+appears, then it searches for addition first again? Just a guess.
+Why is this allowed?
+#+RESULTS:
+: 10
+
+I read this as make unbound. If it reads from left to right then
+d should equal 5, and the total would be 11.
+#+BEGIN_SRC emacs-lisp
+  (makunbound 'a)
+  (let ((a 1) (b 2) (c 3) (d (+ a 4))) (+ a b c d))
+#+END_SRC
+So this caused an error. Makunbound must cause the a to not be allowed
+to have anything assigned to it as a variable.
+
+The star might be able to bypass any weirdness going on with the
+prior code block and allow it to equal 11. That's just my guess.
+#+BEGIN_SRC emacs-lisp
+  (let* ((a 1) (b 2) (c 3) (d (+ a 4))) (+ a b c d))
+#+END_SRC
+Hey I was right this time. Woohoo!
+#+RESULTS:
+: 11
+
+let with the * seems to unvoid anything that was previously made
+void. Clears up any problems.
+** TODO TEJ
+  A function-as-association between elements of a domain and elements of a
+  codomain, for \ldquo{}small\rdquo domains and codomains, inspired so-called \ldquo{}association
+  lists\rdquo (or alists) and the =assoc= (and associated) functions.
+
+  =(assoc KEY LIST)= returns non-nil if KEY is \ldquo{}equal\rdquo to the first element of
+  an element of LIST. The value is actually the first element of LIST whose
+  first element equals KEY.
+
+  For example, here is a function that uses an alist to look up the RGB values
+  of a given color name:
+
+#+BEGIN_SRC emacs-lisp :results silent
+  (defun lookup-rgb (color-name)
+    (rest (assoc color-name
+                 '(("red" 255 0 0) ("green" 0 255 0) ("blue" 0 0 255)))))
+#+END_SRC
+
+#+BEGIN_SRC emacs-lisp :results raw
+  (lookup-rgb "blue")
+#+END_SRC
+
+#+RESULTS:
+(0 0 255)
+
+: (0 0 255)
+
+  What if the color name is not in the alist?
+
+#+BEGIN_SRC emacs-lisp :results raw
+  (lookup-rgb "grue")
+#+END_SRC
+
+#+RESULTS:
+nil
+
+: nil
+
+  There are several variations of =assoc=. Find and give examples of using them.
+
+*** Your answer goes here.
+1. The first I found is rassoc. It compares the cdr to your input.
+#+BEGIN_SRC emacs-lisp :results raw
+(setq myQ '(1 3 5))
+(car (rassoc myQ
+  '(("first three odds" 1 3 5) ("first three evens" 2 4 6))))
+#+END_SRC
+
+#+RESULTS:
+first three odds
+
+2. Another version is assq, which is faster, but you have to set up key values
+for it to work properly.
+#+BEGIN_SRC emacs-lisp :results raw
+(setq anotherQ '((transformer . optimusprime) (avenger . warmachine)))
+(assq 'avenger anotherQ)
+#+END_SRC
+
+#+RESULTS:
+(avenger . warmachine)
+
+3. Finally there is an rassq which finds values based on the key/value pairing.
+#+BEGIN_SRC emacs-lisp :results raw
+(setq finalQ '((sport . volleyball) (game . monopoly)))
+(rassq 'monopoly finalQ)
+#+END_SRC
+
+#+RESULTS:
+(game . monopoly)
+
+** TODO WFK
+  In the function-as-map context, here is another interpretation:
+
+  A \ldquo{}map\rdquo type (AKA associative array, AKA hashtable) is found in many
+  languages. For example, C++:
+#+BEGIN_SRC C++ :results output
+  #include <iostream>
+  #include <map>
+  using namespace std;
+
+  int main() {
+     map<string, string> mymap;
+
+     mymap["one"] = "red";
+     mymap["two"] = "blue";
+     mymap["three"] = "green";
+
+     for (auto const &ent1 : mymap) {
+        cout << ent1.first << " : " << ent1.second << endl;
+     }
+  }
+#+END_SRC
+
+: one : red
+: three : green
+: two : blue
+
+  And python:
+#+BEGIN_SRC python :results output
+  mymap = {}
+
+  mymap["one"] = "red"
+  mymap["two"] = "blue"
+  mymap["three"] = "green"
+
+  if __name__ == "__main__":
+          for key in mymap.keys():
+                  print key + " : " + str(mymap[key])
+#+END_SRC
+
+#+RESULTS:
+
+: three : green
+: two : blue
+: one : red
+
+  And of course elisp:
+#+BEGIN_SRC emacs-lisp :results output
+  (let* ((mymap (make-hash-table)))
+    (puthash "one" "red" mymap)
+    (puthash "two" "blue" mymap)
+    (puthash "three" "green" mymap)
+    (pp (list (gethash "one" mymap)
+              (gethash "two" mymap)
+              (gethash "three" mymap)))
+    (maphash (lambda (key value) (princ (format "%s : %s\n" key value))) mymap))
+#+END_SRC
+
+#+RESULTS:
+: (nil nil nil)
+: one : red
+: two : blue
+: three : green
+
+: ("red" "blue" "green")
+: one : red
+: two : blue
+: three : green
+
+  What happens if you omit the =:test 'equal= parameters to the
+  =make-hash-table= call?
+  
+*** Your answer goes here.
+You get a list of (nil nil nil) because it no longer has something
+called equal coming in, which probably was connected to the values
+beforehand.
+** TODO TER
+  This exercise explores /looping/ versus /mapping/.
+
+  What does the =morphify= function defined below do? Think about it, then PVP
+  the result of the call to it that follows.
+
+Well it loops through every item in lst.
+It then calls a function called collect, so I assume
+it changes a list depending on what is given in the 
+input, and puts it into a collection of results.
+#+BEGIN_SRC emacs-lisp :results silent
+  (defun morphify (fun lst)
+    (loop for item in lst
+          collect (funcall fun item)))
+#+END_SRC
+Builds our function.
+  Note the quotes: Must mean separate items.
+
+This will make every letter in every word lowercase if what I 
+predicted is true.
+#+BEGIN_SRC emacs-lisp :results raw
+  (morphify (quote downcase) (quote ("THIS" "IS" "TOO" "LOUD")))
+#+END_SRC
+
+#+RESULTS:
+(this is too loud)
+Correct, sort of. I did not realize it is a mapping function. It takes
+in a function and lst. I did not realize they were 2 separate parameters.
+Still getting used to lisp.
+
+  The =morphify= function is essentially a /mapping/ function, which means it
+  takes a passed-in function (=fun=) and a passed-in list (=lst=), and /maps fun
+  over lst/, i.e., the results of calling the function =fun= on each element of
+  the list =lst= are collected into a new list, which is returned.
+
+  This shows one way (iteratively) a /map/ function could be implemented.
+  Another way is /recursively/, as in:
+
+#+BEGIN_SRC emacs-lisp :results silent
+  (defun morphifyr (fun lst)
+    (if (null lst)
+        nil
+      (append (list (funcall fun (first lst))) (morphifyr fun (rest lst)))))
+#+END_SRC
+
+  Explain how this version of =morphify= works.
+  
+*** Your answer goes here
+This version also takes in a function and a list. It first checks if the value
+of lst is null, if not then it appends the first item in lst to a new list with 
+the function applied to it and then returns the rest of the list recursively
+into the morphifyr function again. So it gets through the whole list. Lets
+test it.
+
+#+BEGIN_SRC emacs-lisp :results raw
+(morphify (quote upcase) (quote ("i love elisp")))
+#+END_SRC
+
+#+RESULTS:
+(I LOVE ELISP)
+
+We were correct, it uppercased the whole list recursively, rather than in a loop.
+
+** TODO TGE
+  Note the difference if -13 is used instead of 13 below:
+#+BEGIN_SRC emacs-lisp :results silent
+  (defun compute-floor-the-hard-way (dividend divisor)
+    (- (/ dividend (float divisor)) (/ (mod dividend divisor) (float divisor))))
+#+END_SRC
+
+#+BEGIN_SRC emacs-lisp :results raw
+  (let* ((number (/ -13 4.0))
+         (floor1 (floor number))
+         (floor2 (compute-floor-the-hard-way -13 4.0)))
+    (list number floor1 floor2))
+#+END_SRC
+
+#+RESULTS:
+(-3.25 -4 -4.0)
+(3.25 3 3.0)
+
+: (3.25 3 3.0)
+
+  Is the hard way correct?
+  
+*** Your answer goes here.
+Yes the hard way is correct, the floor of 3.25 would be 3, so we get
+3 as an int and 3 as a float, but they are of equal value. The negative
+also gives the same value as the built in floor function, so it must
+be correct, since it always goes to the lower number.
+** TODO THP
+  Graph the floor and ceiling functions f(x) = \lfloor{}x\rfloor and f(x) = \lceil{}x\rceil for real
+  number values of x in the interval [-5.0 .. 5.0].
+  
+*** Your answer goes here
+Icouldn't find a way to do this in lisp, so I did it in python. Basically, what
+floor does is from x = 0 to 1, its all 0, then goes straight up once we get past
+1, and from 1 to 2 it all equals one, and the pattern goes on. The ceiling does the
+same except it starts from 1. They both look like staircases, floor starts at 0 and
+ceil starts at 1, which makes sense since the first rounds down adn the second rounds
+up.
+#+BEGIN_SRC python :results output
+import matplotlib.pyplot as plt
+import numpy as np
+import math
+
+y = np.arange(-5,5,0.01)
+
+x = np.arange(-5,5,0.01)
+for i in range(len(x) -1):
+    y[i] = math.floor(x[i])
+
+plt.figure()
+plt.plot(x,y)
+plt.show()
+
+y = np.arange(-5,5,0.01)
+
+x = np.arange(-5,5,0.01)
+for i in range(len(x) -1):
+    y[i] = math.ceil(x[i])
+
+plt.figure()
+plt.plot(x,y)
+plt.show()
+#+END_SRC
+
+#+RESULTS:
+
+** TODO WKM
+  Which of these statements about floor and ceiling are correct, for any real
+  number $x$ and any integers $n$ and $m$?
+  1. $x - 1 < \lfloor{}x\rfloor \le x \le \lceil{}x\rceil < x + 1$.
+  2. $\lfloor{}-x\rfloor = -\lceil{}x\rceil$.
+  3. $\lceil{}-x\rceil = -\lfloor{}x\rfloor$.
+  4. $\lfloor{}x + n\rfloor = \lfloor{}x\rfloor + n$.
+  5. $\lceil{}x + n\rceil = \lceil{}x\rceil + n$.
+  6. $\lfloor{}\frac{n}{2}\rfloor + \lceil{}\frac{n}{2}\rceil = n$.
+  7. $\lfloor{}\frac{n}{2}\rfloor + \lfloor{}\frac{n + 1}{2}\rfloor = n$.
+  8. $\lceil{}\frac{n}{2}\rceil + \lceil{}\frac{n + 1}{2}\rceil = n$.
+  9. $\lfloor{}\frac{n + m}{2}\rfloor + \lceil{}\frac{n - m + 1}{2}\rceil = n$ (for any $m$, not just $m =
+     0$ as in statement 7).
+  10. $\lceil{}\frac{n + m}{2}\rceil + \lceil{}\frac{n - m + 1}{2}\rceil = n$ (for any $m$, not just $m =
+      0$ as in statement 8).
+  
+*** Your answer goes here.
+1. Correct
+2. Correct
+3. Correct
+4. Correct
+5. Correct
+6. Correct
+7. Correct
+8. Incorrect
+9. Incorrect
+10. Incorrect
+** TODO TIW
+
+  Define the function \ldquo{}round to nearest integer\rdquo using the floor and ceiling
+  functions, together with the \ldquo{}Iverson bracket\rdquo function. (A number whose
+  fractional part is less than one-half should be rounded down, otherwise up.)
+
+***  Your answer goes here.
+#+BEGIN_SRC emacs-lisp :results silent
+   (defun round-to-nearest-integer (myNum)
+      (list (floor myNum)
+      (ceiling myNum)
+      (round myNum)))
+#+END_SRC
+
+#+BEGIN_SRC emacs-lisp :results raw
+   (list (round-to-nearest-integer 123.45)
+   (round-to-nearest-integer -12.6)
+   (round-to-nearest-integer 8.88))
+#+END_SRC
+
+The function finds the floor, ceiling, then the Iverson bracket, which is just
+using the round function. So the last number in each list is what we are aiming
+for.
+#+RESULTS:
+((123 124 123) (-13 -12 -13) (8 9 9))
+
+** TODO TKG
+  Explore the inverse of =assoc= via the functions =rassoc= and associates.
+
+***  Your answer goes here.
+I accidentally did this in Exercise TEJ, so my answer is there.
+It basically checks the rest of the list rather than just the
+first part of the list.
+** TODO WOV
+  Identify the formula or rule that generates the terms of each sequence:
+  1. =[7 14 21 28 35 42 49 56 63 70 ...]=
+  2. =[7 11 15 19 23 27 31 35 39 43 ...]=
+  3. =[3 4 6 9 13 18 24 31 39 48 ...]=
+  4. =[1 10 11 100 101 110 111 1000 1001 1010 ...]=
+  5. =[1 1 2 3 5 8 13 21 34 55 ...]=
+  6. =[7 22 11 34 17 52 26 13 40 20 ...]=
+  7. =[2 1 3 4 7 11 18 29 47 76 ...]=
+  8. =[6 12 24 48 96 192 384 768 1536 3072 ...]=
+  9. =[6 18 54 162 486 1458 4374 13122 39366 118098 ...]=
+  10. =[2 3 5 7 11 13 17 19 23 29 ...]=
+
+***  Your answer goes here.
+1. Increase by 7 every iteration.
+2. Increase by 4 every iteration. 
+3. Increases by 1 more than it increased by last iteration. By 1 then 2 then 3 etc.
+4. It just increases by 1 every time, but in binary.
+5. Fibonacci Sequence. The next number is equal to the prior 2 numbers added together.
+6. If the number is odd, multiply it by 3 and add 1. If it is even, divide it by 2.
+7. The two numbers after the current number can be subtracted to reach the current number.
+11 - 7 = 4. 7 - 4 = 3. 4 - 3 = 1. 3 - 1 = 2.
+8. It doubles every iteration.
+9. It triples every iteration.
+10. This is just a sequence of all the prime numbers starting from the lowest one. 
+** TODO WQW
+  Classify the following lisp functions according as each is or is not a predicate:
+| Predicate? | Yes or No? | 
+  |------------+------------| 
+  | =list=     |            |
+  | =listp=    |            |
+  | =integerp= |            |
+  | =vector=   |            |
+  | =vectorp=  |            |
+  | =symbolp=  |            |
+  | =zerop=    |            |
+  | =evenp=    |            |
+  | =oddp=     |            |
+
+***  Your answer goes here. (Replicate the above table.)
+  | Predicate? | Yes or No? |
+  |------------+------------| 
+  | =list=     |     No     |
+  | =listp=    |    Yes     |
+  | =integerp= |    Yes     |
+  | =vector=   |     No     |
+  | =vectorp=  |    Yes     |
+  | =symbolp=  |    Yes     |
+  | =zerop=    |    Yes     |
+  | =evenp=    |    Yes     |
+  | =oddp=     |    Yes     |
+* ELISP Functions
+** Factorial Function
+#+BEGIN_SRC emacs-lisp :results silent
+(defun factorial (myNum)
+   (setf acc 1)
+   (loop for x from 1 to myNum
+      do(setq acc (* acc x)))
+    (print acc))
+#+END_SRC
+
+#+BEGIN_SRC emacs-lisp :results raw
+ (list (factorial 5) (factorial 12) (factorial 0))
+#+END_SRC
+
+#+RESULTS:
+(120 479001600 1)
+
+
+
+** Mapcar Function
+
+
+Basically what mapcar does is it takes a function, in this case the
+factorial function I wrote, and applies that function to every element
+that is in a list that you designate. We can do this with all kinds of 
+functions. I also have shown it with an absolute value function.
+#+BEGIN_SRC emacs-lisp :results raw
+(mapcar #'factorial'(1 2 3 4 5))
+#+END_SRC
+See? Every number gets the factorial function thrown onto it.
+#+RESULTS:
+(1 2 6 24 120)
+
+#+BEGIN_SRC emacs-lisp :results raw
+(mapcar #'abs'(-1 -123 5000 2 -4.3))
+#+END_SRC
+Every number here becomes positive since we used the built in absolute
+value function on it.
+#+RESULTS:
+(1 123 5000 2 4.3)
+
+** Function That Uses a Loop
+Well, my factorial function uses a loop but I'll make a new one.
+
+A random function, but it uses a traditional loop. It sums up the numbers
+from 1 to whatever times you put in, each multiplied by the value you pass.
+#+BEGIN_SRC emacs-lisp :results silent
+(defun mySweetFunction (times val)
+   (loop for x from 1 to times
+      sum (* x val)))
+#+END_SRC
+
+#+BEGIN_SRC emacs-lisp :results raw
+(mySweetFunction 30 3)
+#+END_SRC
+
+#+RESULTS:
+1395
+* Exercises vs. Problems Paragraph
+I feel that it is important to understand the difference between an
+exercise and a problem. This helped me to understand, because an 
+exercise can still be difficult. However, knowing how to start exercises
+and how to proceed to get an answer makes a world of difference. With 
+problems, we have to actually think about potential paths to take to
+reach a solution. We won't always know that what we are trying is correct,
+but I think that trying those different paths and coming up with our own
+methods of discovery are really how we learn. We can learn more with failure
+than with instant success. So while exercises are important, problems can
+really build the "thinking" part of our brain. 
+* Personal Project: Brother Benning's Exercises
+I decided to go ahead and use the exercises that
+Brother Benning provided as my personal project.
+
+** 1 - Hat Puzzle
+The first guy did not know what we was. This means that the only two things
+he could have seen were 2 white hats, or 1 white hat and one red hat.
+
+The second guy knew that the first guy had to have seen one of those two 
+options, but he also did not know what he was. This means that he only could
+have saw two white and still not known what he was, or he saw a red hat on
+the first guy, and a white hat on the third and not known what he was.
+
+Knowing the possibilities of these 2 guys, the third guy understands that
+he had to have been wearing a WHITE hat. The first guy could not have seen
+2 red hats, and neither could have the second guy, or they would have known
+what they were wearing. Also, if the second guy had seen the third guy wearing
+a red hat and the first guy wearing a white hat, he would've automatically
+known he was wearing a white hat, because the first guy did not see 2 red
+hats. 
+Answer: Third Guy: White hat.
+** 2 - Island Knights & Knaves
+I am going under the assumption that Knaves always lie and
+Knights always tell the truth.
+a. A has to be lying. If B is lying, then A would be telling the truth, but
+then B would have to be a knight which is a contradiction.
+A is a Knave. B is a Knight. 
+
+b. C is definitely a Knave, as he cannot be telling the truth as a Knight.
+He is lying, because he is saying they are both Knaves, when D is in fact
+a Knight.
+C is a Knave. D is a Knight.
+
+c. Out of E and F, there is only one Knave. One of them has to be telling the
+truth, saying the other is a Knave, while that other Knave is lying saying
+that the first is a Knave, when they are actually a Knight. So one is a Knight
+and one is a Knave.
+Number of Knaves: 1
+
+d. U is a Knave, X is a Knave, Z is a Knave, V is a Knave.
+W is a Knight and Y is a Knight.
+They can't all be lying because V and W contradict. Y is a Knight and
+W is a Knight because it's exactly 2 Knights and doesn't go over 3.
+This makes the other four all liars by default.
+
+** 3 - Computer Program Puzzle
+We know, because of the last two clues that there is not a missing
+semicolon, or a misspelled variable name. This means that clue b
+definitely cannot be true, because the second clause states
+that either c or d would have to be true. Therefore, there is no 
+syntax error in the first five lines. This leaves the first part of
+clue a, which says there is an undeclared variable.
+
+Answer: There is an undeclared variable.
+** 4 - Sharky Puzzle
+Socko said lefty killed sharky, and muscles said lefty did not. This lets us 
+know that one of them is the truth teller. That makes the other 2 liars by
+default. Since Fats is a liar, and he said Muscles didn't kill sharky, that
+means that muscles did kill Sharky. So we don't even need clue 3.
+
+The killer was Muscles. 
+** 5 - Balance
+I am assuming that it has to be flipped.
+I think that what you could do is to flip the coins twice to determine the
+end result. If it hits heads or tails twice in a row, then repeat the process
+and do not count the flip. Then you determine you're probability by what hits
+first. So if you hit tails then heads, you could count that as tails. If you 
+hit heads then tails, you count it as heads. This way there is an equal 
+probability of the less weighted side being either before or after the opposite,
+and it eliminates the weightedness mattering, because you discard any that
+are twice in a row.
+** 6 - Beast 2.0
+Janauary | Floyd   | Qatar    | Warith
+February | Ollie   | Denmark  | Eldang
+March    | Keith   | Pakistan | Haleyito
+April    | Doreen  | CountryX | Xozix
+May      | Yvette  | Romania  | Burutia
+June     | Sonja   | Haiti    | CultureY
+July     | Michael | Oman     | Yersim
